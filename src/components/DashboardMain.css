@@ -1,0 +1,17 @@
+.dashboard-main {
+  padding: 20px;
+}
+
+.dashboard-main h2 {
+  margin-bottom: 8px;
+  color: #34495e;
+}
+
+.dashboard-main p {
+  color: #777;
+  margin-bottom: 20px;
+}
+
+.dashboard-section {
+  margin-top: 30px;
+}
